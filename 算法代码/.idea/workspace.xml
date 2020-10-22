@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40f593f-178a-4dd4-9d09-7b2e420893cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法代码.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法代码.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager" selected="Application.罗马数字转整数13">
+  <component name="RunManager" selected="Application.三数之和15">
     <configuration name="整数转罗马数字12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="整数转罗马数字12" />
       <module name="算法代码" />
@@ -74,6 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最长公共前缀14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长公共前缀14" />
+      <module name="算法代码" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三数之和15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="三数之和15" />
+      <module name="算法代码" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Te" />
       <module name="算法代码" />
@@ -83,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.三数之和15" />
+        <item itemvalue="Application.最长公共前缀14" />
         <item itemvalue="Application.罗马数字转整数13" />
         <item itemvalue="Application.Te" />
         <item itemvalue="Application.整数转罗马数字12" />
@@ -114,6 +127,7 @@
       <workItem from="1603196642986" duration="68000" />
       <workItem from="1603196874551" duration="9000" />
       <workItem from="1603281662392" duration="4668000" />
+      <workItem from="1603361815750" duration="6778000" />
     </task>
     <servers />
   </component>
@@ -121,30 +135,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="186" key="GridCell.Tab.0.bottom" timestamp="1603286335372">
+    <state width="2517" height="300" key="GridCell.Tab.0.bottom" timestamp="1603369093057">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2517" height="186" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
-    <state width="2517" height="186" key="GridCell.Tab.0.center" timestamp="1603286335372">
+    <state width="2517" height="300" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.0.center" timestamp="1603369093057">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2517" height="186" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
-    <state width="2517" height="186" key="GridCell.Tab.0.left" timestamp="1603286335372">
+    <state width="2517" height="300" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.0.left" timestamp="1603369093057">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2517" height="186" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
-    <state width="2517" height="186" key="GridCell.Tab.0.right" timestamp="1603286335372">
+    <state width="2517" height="300" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.0.right" timestamp="1603369093057">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2517" height="186" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
+    <state width="2517" height="300" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.1.bottom" timestamp="1603369093058">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="300" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093058" />
+    <state width="2517" height="300" key="GridCell.Tab.1.center" timestamp="1603369093057">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="300" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.1.left" timestamp="1603369093057">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="300" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093057" />
+    <state width="2517" height="300" key="GridCell.Tab.1.right" timestamp="1603369093058">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="300" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603369093058" />
     <state x="760" y="294" key="SettingsEditor" timestamp="1603281871869">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="760" y="294" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1603281871869" />
-    <state x="853" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1603281662516">
+    <state x="853" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1603361815409">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603196875622" />
-    <state x="853" y="485" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1603281662516" />
+    <state x="853" y="485" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1603361815409" />
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1603364621249">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1603364621249" />
   </component>
 </project>
