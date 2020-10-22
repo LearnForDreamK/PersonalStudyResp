@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b40f593f-178a-4dd4-9d09-7b2e420893cb" name="Default Changelist" comment="" />
+    <list default="true" id="b40f593f-178a-4dd4-9d09-7b2e420893cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法代码.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法代码.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,15 +38,56 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1j8rcppyiP1UpQJIObSWMF07IzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.罗马数字转整数13">
+    <configuration name="整数转罗马数字12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="整数转罗马数字12" />
+      <module name="算法代码" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="罗马数字转整数13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="罗马数字转整数13" />
+      <module name="算法代码" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Te" />
+      <module name="算法代码" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.罗马数字转整数13" />
+        <item itemvalue="Application.Te" />
+        <item itemvalue="Application.整数转罗马数字12" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,6 +113,7 @@
       <updated>1603196641552</updated>
       <workItem from="1603196642986" duration="68000" />
       <workItem from="1603196874551" duration="9000" />
+      <workItem from="1603281662392" duration="4668000" />
     </task>
     <servers />
   </component>
@@ -64,9 +121,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1603196875622">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2517" height="186" key="GridCell.Tab.0.bottom" timestamp="1603286335372">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="186" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
+    <state width="2517" height="186" key="GridCell.Tab.0.center" timestamp="1603286335372">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="186" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
+    <state width="2517" height="186" key="GridCell.Tab.0.left" timestamp="1603286335372">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="186" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
+    <state width="2517" height="186" key="GridCell.Tab.0.right" timestamp="1603286335372">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="186" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603286335372" />
+    <state x="760" y="294" key="SettingsEditor" timestamp="1603281871869">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="760" y="294" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1603281871869" />
+    <state x="853" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1603281662516">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603196875622" />
+    <state x="853" y="485" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1603281662516" />
   </component>
 </project>
